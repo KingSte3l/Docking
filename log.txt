@@ -1,0 +1,2 @@
+##command to run vina_docking.sh
+1.bash vina_docking.sh BDNF_1bnd.pdbqt ligand_folder config.txt 
